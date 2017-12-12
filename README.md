@@ -1,0 +1,2 @@
+# NaTong_CV_Method_character_recognition
+NaTong_CV_Method_character_recognition
